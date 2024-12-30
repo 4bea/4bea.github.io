@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <img src="https://github.com/4bea/4bea.github.io/blob/main/PAGE%201.gif?raw=true" alt="I want to see..">
+<a href="https://gifyu.com/image/SXSoJ"><img src="https://s7.gifyu.com/images/SXSoJ.gif" alt="PAGE 1 2" border="0" /></a>
 
 </body>
 </html>
